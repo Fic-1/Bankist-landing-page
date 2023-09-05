@@ -1,6 +1,9 @@
 # Bankist-landing-page
 Bankist app landing page
 
-Project was created with help of a instructor:
+The project was created with the help of an instructor:
+
 Jonas Schmedtmann 
+
+
 https://www.udemy.com/course/the-complete-javascript-course/
